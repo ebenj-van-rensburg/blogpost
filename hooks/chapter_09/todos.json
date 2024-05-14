@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Coding",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "text": "Yeet",
+      "complete": false
+    },
+    {
+      "id": "3",
+      "text": "AHHHHHHHHHHHHHHHHHHHH",
+      "complete": true
+    },
+    {
+      "id": "698c326e-0b1f-46ec-936f-5a2494f08c7c",
+      "text": "Finish the Code"
+    }
+  ]
+}
